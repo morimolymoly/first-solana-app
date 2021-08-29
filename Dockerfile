@@ -4,7 +4,7 @@ COPY . .
 
 RUN cd /usr/src/app
 
-RUN sh -c "$(curl -sSfL https://release.solana.com/v1.6.6/install)"
+RUN sh -c "$(curl -sSfL https://release.solana.com/v1.7.9/install)"
 
 RUN sh -c "$(rustup component add rls rust-analysis rust-src)"
 RUN sh -c "$(cargo install cargo-edit)"
