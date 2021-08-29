@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/moly/work/first-solana/sample/target/bpfel-unknown-none/debug/build/typenum-dca0a92d6024f5c2/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/moly/work/first-solana/sample/target/bpfel-unknown-none/debug/build/typenum-dca0a92d6024f5c2/out/op.rs
