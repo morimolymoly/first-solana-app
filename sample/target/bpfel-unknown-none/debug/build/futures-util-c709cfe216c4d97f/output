@@ -1,0 +1,3 @@
+cargo:rustc-cfg=futures_no_atomic_cas
+cargo:rustc-cfg=fn_like_proc_macro
+cargo:rerun-if-changed=no_atomic_cas.rs
